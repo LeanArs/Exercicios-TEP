@@ -13,10 +13,10 @@
     [ ] 10. [Distância entre dois pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015)
 
 2. Condicionais
-    [ ] 1. [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
-    [ ] 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)
-    [ ] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
-    [ ] 4. [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)
+    [x] 1. [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
+    [x] 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)
+    [x] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
+    [x] 4. [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)
     [ ] 5. [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)
     [ ] 6. [Coordenadas de um Ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041)
     [ ] 7. [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)
@@ -37,9 +37,9 @@
     [ ] 10. [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165)
 
 4. Vetores e matrizes
-    [ ] 1. [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)
-    [ ] 2. [Tomadas](https://www.beecrowd.com.br/judge/pt/problems/view/1930)
-    [ ] 3. [Fibonacci em Vetor](https://www.beecrowd.com.br/judge/pt/problems/view/1176)
+    [x] 1. [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)
+    [x] 2. [Tomadas](https://www.beecrowd.com.br/judge/pt/problems/view/1930)
+    [x] 3. [Fibonacci em Vetor](https://www.beecrowd.com.br/judge/pt/problems/view/1176)
     [ ] 4. [Linha na Matriz](https://www.beecrowd.com.br/judge/pt/problems/view/1181)
     [ ] 5. [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1929)
     [ ] 6. [Númeração Romana para Números de Página](https://www.beecrowd.com.br/judge/pt/problems/view/1960)
