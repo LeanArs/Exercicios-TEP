@@ -25,9 +25,9 @@
     [ ] 10. [Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061)
 
 3. Laços
-    [ ] 1. [Números pares](https://www.beecrowd.com.br/judge/pt/problems/view/1059)
-    [ ] 2. [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113)
-    [ ] 3. [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072)
+    [x] 1. [Números pares](https://www.beecrowd.com.br/judge/pt/problems/view/1059)
+    [x] 2. [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113)
+    [x] 3. [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072)
     [ ] 4. [Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021)
     [ ] 5. [Múltiplos de 13](https://www.beecrowd.com.br/judge/pt/problems/view/1132)
     [ ] 6. [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151)
@@ -40,7 +40,7 @@
     [x] 1. [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)
     [x] 2. [Tomadas](https://www.beecrowd.com.br/judge/pt/problems/view/1930)
     [x] 3. [Fibonacci em Vetor](https://www.beecrowd.com.br/judge/pt/problems/view/1176)
-    [ ] 4. [Linha na Matriz](https://www.beecrowd.com.br/judge/pt/problems/view/1181)
+    [x] 4. [Linha na Matriz](https://www.beecrowd.com.br/judge/pt/problems/view/1181)
     [ ] 5. [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1929)
     [ ] 6. [Númeração Romana para Números de Página](https://www.beecrowd.com.br/judge/pt/problems/view/1960)
     [ ] 7. [Pula Sapo](https://www.beecrowd.com.br/judge/pt/problems/view/1961)
@@ -49,7 +49,7 @@
     [ ] 10. [Sequência da Sequência](https://www.beecrowd.com.br/judge/pt/problems/view/2028)
 
 5. Funções e strings
-    [ ] 1. [De Quem é a Vez?](https://www.beecrowd.com.br/judge/pt/problems/view/1914)
+    [x] 1. [De Quem é a Vez?](https://www.beecrowd.com.br/judge/pt/problems/view/1914)
     [ ] 2. [Bazinga!](https://www.beecrowd.com.br/judge/pt/problems/view/1828)
     [ ] 3. [Um-Dois-Três](https://www.beecrowd.com.br/judge/pt/problems/view/1332)
     [ ] 4. [Árvore de Natal](https://www.beecrowd.com.br/judge/pt/problems/view/1768)
