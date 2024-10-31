@@ -28,13 +28,13 @@
     [x] 1. [Números pares](https://www.beecrowd.com.br/judge/pt/problems/view/1059)
     [x] 2. [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113)
     [x] 3. [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072)
-    [ ] 4. [Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021)
+    [x] 4. [Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021)
     [ ] 5. [Múltiplos de 13](https://www.beecrowd.com.br/judge/pt/problems/view/1132)
-    [ ] 6. [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151)
+    [x] 6. [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151)
     [ ] 7. [Idades](https://www.beecrowd.com.br/judge/pt/problems/view/1154)
     [ ] 8. [Crescimento Populacional](https://www.beecrowd.com.br/judge/pt/problems/view/1160)
     [ ] 9. [Número Perfeito](https://www.beecrowd.com.br/judge/pt/problems/view/1164)
-    [ ] 10. [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165)
+    [x] 10. [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165)
 
 4. Vetores e matrizes
     [x] 1. [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)
